@@ -5,6 +5,7 @@ Caso sua criatividade não esteja em dia bom, temos abaixo alguns exemplos:
 - cars
 - super_heroes
 - characters
+
 Defina pelo menos 3 colunas para a entidade escolhida!
 
 O exercício 1 é configurar a API e o banco de dados. Faça o endpoint GET /ping para testá-la.
